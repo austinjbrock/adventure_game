@@ -1,0 +1,1 @@
+print('Welcome to the game. Are you ready to play?')
